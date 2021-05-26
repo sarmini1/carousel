@@ -8,7 +8,7 @@ import "./Card.css";
  *
  * No state
  *
- * Card -> Carousel -> App
+ * App -> Carousel -> Card
  */
 
 function Card(props) {
